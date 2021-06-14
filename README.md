@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **supazorik/supazorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 <p>
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=supazorik"/>
     <br/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supazorik&layout=compact&hide_border=true&bg_color=ffffff&langs_count=999">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supazorik&layout=compact&hide_border=true&theme=dark&langs_count=999">
     <br/>
-    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=supazorik&hide_border=true&bg_color=ffffff&count_private=true&show_icons=true&include_all_commits=true">
+    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=supazorik&hide_border=true&theme=dark&count_private=true&show_icons=true&include_all_commits=true">
 </p>
