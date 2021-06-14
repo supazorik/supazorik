@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p>
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=supazorik%22/%3E
+    <br/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supazorik&layout=compact&hide_border=true&bg_color=ffffff&langs_count=999%22%3E
+    <br/>
+    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=supazorik&hide_border=true&bg_color=ffffff&count_private=true&show_icons=true&include_all_commits=true%22%3E
+</p>
