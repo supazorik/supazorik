@@ -43,6 +43,8 @@ I'm Zohrab Haroyan and I am currently in school training to become a pilot.
 I mainly develop high-quality FiveM resources that are made with security and ease of use in mind.
 
 I don't have too many public-facing projects as most of the work I do is freelance/for projects I am working on. I expect to release more projects on Github soon.
+
+For more information about me visit my [personal website](https://superzorik.com) or for some projects that I worked on that I haven't thrown onto Github yet, you can find on my [development website](https://s.superz.dev)
 <p>
     <br/>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supazorik&layout=compact&hide_border=true&theme=dark&langs_count=999">
